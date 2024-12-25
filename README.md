@@ -6,7 +6,7 @@ Welcome to my repository! 🎓 This is a personal collection of notes, organized
 
 ## 📂 Repository Structure
 ```
-📦 College-Notes/
+📦Notes/
  └── 📂 Semester-X/   
      └── 📂 Sub y/   
          ├── Ch1.md      
