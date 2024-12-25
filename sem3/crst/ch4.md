@@ -372,7 +372,7 @@ Fallacies in reasoning are errors or flaws in logical thinking that undermine th
 
 By understanding and avoiding fallacies in reasoning, individuals can foster rational discussions, make informed decisions, and critically evaluate arguments in personal, professional, and public contexts.
 
-# Barriers in Critical Thinking
+# 4. Barriers in Critical Thinking
 
 Critical thinking is the disciplined process of evaluating information objectively to form a reasoned judgment. However, several barriers can impede this process, leading to flawed conclusions or poor decision-making. Below is a detailed exploration of these barriers, along with examples to help understand them better.
 
