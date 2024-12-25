@@ -244,7 +244,7 @@ The Abilene Paradox, introduced by management expert Jerry B. Harvey in a 1974 a
 
 By recognizing the Abilene Paradox and its symptoms, teams can avoid unnecessary frustrations and make decisions aligned with true collective preferences.
 
-## 3.Fallacies in Reasoning
+# 3. Fallacies in Reasoning
 
 Fallacies in reasoning are errors or flaws in logical thinking that undermine the validity of arguments. They often appear persuasive but lack soundness and rational foundation. Recognizing and avoiding fallacies is critical for effective decision-making, critical thinking, and clear communication.
 
