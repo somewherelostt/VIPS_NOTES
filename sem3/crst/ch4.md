@@ -16,9 +16,8 @@ This section covers the following topics:
 
 
 
-# System Structures and Behavior
 
-# System Structures and Behavior
+# 1. System Structures and Behavior
 
 System structures and behavior encompass the framework and dynamics that define how systems operate, interact, and evolve. A system can be anything from an organization, an ecosystem, or even a mechanical process. Understanding system structures and behavior is crucial for problem-solving, decision-making, and designing sustainable solutions.
 
